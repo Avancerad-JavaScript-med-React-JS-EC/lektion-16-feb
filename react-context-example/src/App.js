@@ -1,6 +1,6 @@
 import './App.css';
 import React, { createContext, useState } from 'react'; 
-import DisplayUsername from './components/DisplayUsername';
+import DisplayUsername from './components/DisplayUsername/DisplayUsername';
 import ChangeUsername from './components/ChangeUsername';
 
 //Skapar upp våra context, kan liknas med createStore i redux
